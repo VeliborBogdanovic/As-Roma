@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="igraci.xsl"?>
+<igraci>
+	<igrac>
+		<ime>Ashley</ime>
+		<prezime>Cole</prezime>
+		<godine>35</godine>
+		<pozicija>odbrana</pozicija>
+		<brojGolova>0</brojGolova>
+	</igrac>
+	<igrac>
+		<ime>Miralem</ime>
+		<prezime>Pjanic</prezime>
+		<godine>25</godine>
+		<pozicija>centar</pozicija>
+		<brojGolova>15</brojGolova>
+	</igrac>
+	<igrac>
+		<ime>Daniele </ime>
+		<prezime>De Rossi</prezime>
+		<godine>32</godine>
+		<pozicija>centar</pozicija>
+		<brojGolova>35</brojGolova>
+	</igrac>
+	<igrac>
+		<ime>Francesco</ime>
+		<prezime>Totti</prezime>
+		<godine>39</godine>
+		<pozicija>napad</pozicija>
+		<brojGolova>240</brojGolova>
+	</igrac>
+	<igrac>
+		<ime>Seydou </ime>
+		<prezime>Keita</prezime>
+		<godine>35</godine>
+		<pozicija>centar</pozicija>
+		<brojGolova>20</brojGolova>
+	</igrac>
+	
+</igraci>

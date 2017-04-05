@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" >
+<channel>
+	<item>
+		<title>AS-Roma</title>
+		<description>Ovde mozete pogledati najnovije vesti</description>
+		<link>index.html</link>
+		<language>sr</language>
+		<author>Velibor Bogdanović</author>
+		<date>
+		<day>11</day>
+		<month>03</month>
+		<year>2015</year>
+		</date>
+	</item>
+	<item>
+		<title>Stadion</title>
+		<description>Ovde možete pročitati detalje o našem stadionu</description>
+		<link>stadion.html</link>
+		<author>Velibor Bogdanović</author>
+		<date>
+			<day>11</day>
+			<month>03</month>
+			<year>2015</year>
+		</date>
+	</item>
+	<item>
+		<title>Galerija</title>
+		<description>Ovde možete videti slike kluba</description>
+		<link>galerija.html</link>
+		<author>Velibor Bogdanović</author>
+		<date>
+			<day>11</day>
+			<month>03</month>
+			<year>2015</year>
+		</date>
+	</item>
+	</channel>
+	</rss>
